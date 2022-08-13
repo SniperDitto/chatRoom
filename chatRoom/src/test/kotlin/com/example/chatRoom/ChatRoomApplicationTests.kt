@@ -1,10 +1,10 @@
-package com.example.chatTest
+package com.example.chatRoom
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ChatTestApplicationTests {
+class ChatRoomApplicationTests {
 
 	@Test
 	fun contextLoads() {

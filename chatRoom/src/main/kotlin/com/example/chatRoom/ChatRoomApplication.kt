@@ -1,11 +1,11 @@
-package com.example.chatTest
+package com.example.chatRoom
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ChatTestApplication
+class ChatRoomApplication
 
 fun main(args: Array<String>) {
-	runApplication<ChatTestApplication>(*args)
+	runApplication<ChatRoomApplication>(*args)
 }
